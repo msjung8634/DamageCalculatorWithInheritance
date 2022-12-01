@@ -1,0 +1,14 @@
+C:\Users\msjun\source\repos\DamageCalculatorWithInheritance\bin\Debug\netcoreapp3.1\DamageCalculatorWithInheritance.exe
+C:\Users\msjun\source\repos\DamageCalculatorWithInheritance\bin\Debug\netcoreapp3.1\DamageCalculatorWithInheritance.deps.json
+C:\Users\msjun\source\repos\DamageCalculatorWithInheritance\bin\Debug\netcoreapp3.1\DamageCalculatorWithInheritance.runtimeconfig.json
+C:\Users\msjun\source\repos\DamageCalculatorWithInheritance\bin\Debug\netcoreapp3.1\DamageCalculatorWithInheritance.runtimeconfig.dev.json
+C:\Users\msjun\source\repos\DamageCalculatorWithInheritance\bin\Debug\netcoreapp3.1\DamageCalculatorWithInheritance.dll
+C:\Users\msjun\source\repos\DamageCalculatorWithInheritance\bin\Debug\netcoreapp3.1\DamageCalculatorWithInheritance.pdb
+C:\Users\msjun\source\repos\DamageCalculatorWithInheritance\obj\Debug\netcoreapp3.1\DamageCalculatorWithInheritance.csproj.AssemblyReference.cache
+C:\Users\msjun\source\repos\DamageCalculatorWithInheritance\obj\Debug\netcoreapp3.1\DamageCalculatorWithInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msjun\source\repos\DamageCalculatorWithInheritance\obj\Debug\netcoreapp3.1\DamageCalculatorWithInheritance.AssemblyInfoInputs.cache
+C:\Users\msjun\source\repos\DamageCalculatorWithInheritance\obj\Debug\netcoreapp3.1\DamageCalculatorWithInheritance.AssemblyInfo.cs
+C:\Users\msjun\source\repos\DamageCalculatorWithInheritance\obj\Debug\netcoreapp3.1\DamageCalculatorWithInheritance.csproj.CoreCompileInputs.cache
+C:\Users\msjun\source\repos\DamageCalculatorWithInheritance\obj\Debug\netcoreapp3.1\DamageCalculatorWithInheritance.dll
+C:\Users\msjun\source\repos\DamageCalculatorWithInheritance\obj\Debug\netcoreapp3.1\DamageCalculatorWithInheritance.pdb
+C:\Users\msjun\source\repos\DamageCalculatorWithInheritance\obj\Debug\netcoreapp3.1\DamageCalculatorWithInheritance.genruntimeconfig.cache
